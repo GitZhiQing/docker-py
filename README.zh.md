@@ -2,6 +2,8 @@
 
 [![Build Status](https://github.com/docker/docker-py/actions/workflows/ci.yml/badge.svg)](https://github.com/docker/docker-py/actions/workflows/ci.yml)
 
+[English](./README.md) | [简体中文](./README.zh.md)
+
 Docker 引擎 API 的 Python 库。它允许您在 Python 应用程序中执行 `docker` 命令可以做的任何事情 - 运行容器、管理容器、管理 Swarms 等。
 
 ## 安装
